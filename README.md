@@ -1,0 +1,1 @@
+# Simple blog en Django y PostgreSQL
